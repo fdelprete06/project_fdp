@@ -1,4 +1,4 @@
-package com.example.cazzhit;
+package com.example.cazzhit.UI.Activities;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

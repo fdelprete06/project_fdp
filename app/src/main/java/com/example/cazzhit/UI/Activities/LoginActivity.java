@@ -1,4 +1,4 @@
-package com.example.cazzhit;
+package com.example.cazzhit.UI.Activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.example.cazzhit.Utilities;
 import com.example.myapplication.R;
 
 
