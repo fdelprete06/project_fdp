@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CazzHit</string>
+    <string name="insert_email">Insert Email</string>
+    <string name="insert_password">Insert Password</string>
+    <string name="insert_number">Insert Phone Number</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="login_OK">Login Effettuato</string>
+    <string name="login_KO">Credenziali Errate</string>
 </resources>
