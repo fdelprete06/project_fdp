@@ -7,4 +7,5 @@
     <string name="login">Login</string>
     <string name="login_OK">Login Effettuato</string>
     <string name="login_KO">Credenziali Errate</string>
+    <string name="checkout">checkout</string>
 </resources>
